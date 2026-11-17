@@ -1,0 +1,41 @@
+{
+  "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.25.0"
+  },
+  "entries": [
+    {
+      "id": "20261116-211535-sygu",
+      "title": "The Developër",
+      "commanders": [
+        "The Developër"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-11-17T02:15:35.000Z",
+      "dateEnd": "2026-11-17T03:17:44.315Z",
+      "dateLabel": "11/16/2026, 9:15:35 PM - 11/16/2026, 10:17:44 PM",
+      "url": "https://trhanson.github.io/Tilted/?report=20261116-211535-sygu",
+      "publishedBy": "trhanson",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 55
+      }
+    }
+  ]
+}

@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261118-193353-vwfb",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-11-19T00:33:53.000Z",
+      "dateEnd": "2026-11-19T02:09:06.511Z",
+      "dateLabel": "11/18/2026, 7:33:53 PM - 11/18/2026, 9:09:06 PM",
+      "url": "https://trhanson.github.io/Tilted/?report=20261118-193353-vwfb",
+      "publishedBy": "trhanson",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 7,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20261116-211535-sygu",
       "title": "The Developër",
       "commanders": [
